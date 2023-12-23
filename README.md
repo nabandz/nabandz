@@ -13,4 +13,4 @@
 - [Портфолио](https://nabandz.github.io/portfolio/) - Личный сайт портфолио.
 - [Список задач](https://nabandz.github.io/todo-list/) - Реализации приложения "Список задач".
 - [Конвертер валют](https://nabandz.github.io/currency-converter/) - Реализации приложения "Конвертер валют".
-- [Ujjo](https://nabandz.github.io/ujjo) - Практика по верстке сайта.
+- [Ujjo](https://nabandz.github.io/Ujjo/) - Практика по верстке сайта.
