@@ -1,16 +1,16 @@
-### Hi there 👋
+### Приветствую!
 
-<!--
-**nabandz/nabandz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[`🔍 портфолио`](https://nabandz.github.io/portfolio/)
+[`📧 na.bandzeladze@gmail.com`](mailto:na.bandzeladze@gmail.com)
+[`💻 @dawinters`](https://t.me/dawinters)
 
-Here are some ideas to get you started:
+### 🍃 Проекты, которыми я занимаюсь сейчас
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [КнигаКит — детские сказки](https://knigakit.com/) - Сайт для приложения "КнигаКит".
+
+### 🍂 Последние работы
+
+- [Портфолио](https://nabandz.github.io/portfolio/) - Личный сайт портфолио.
+- [Список задач](https://nabandz.github.io/todo-list/) - Реализации приложения "Список задач".
+- [Конвертер валют](https://nabandz.github.io/currency-converter/) - Реализации приложения "Конвертер валют".
+- [Ujjo](https://nabandz.github.io/ujjo) - Практика по верстке сайта.
